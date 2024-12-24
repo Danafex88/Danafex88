@@ -6,7 +6,7 @@
 - 🤔 Estou procurando ajuda com **desenvolvimento de aplicativos móveis**
 - 💬 Pergunte-me sobre **HTML e CSS**
 - 📫 Como me encontrar: [feerlbm88@gmail.com]
-- ⚡ Curiosidade: Eu adoro tocar guitarra e cozinhar!
+- ⚡ Curiosidade: Eu adoro ler, cozinhar e jogar!
  
 <div align="center">
   <a href="https://github.com/Danafex88">
