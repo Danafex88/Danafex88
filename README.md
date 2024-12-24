@@ -5,14 +5,24 @@
 - 👯 Estou procurando colaborar em **projetos de software livre HTML e CSS**
 - 🤔 Estou procurando ajuda com **desenvolvimento de aplicativos móveis**
 - 💬 Pergunte-me sobre **HTML e CSS**
-- 📫 Como me encontrar: [feerlbm88@gmail.com]
 - ⚡ Curiosidade: Eu adoro ler, cozinhar e jogar!
- 
+
+- ## Linguagens e Ferramentas
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Danafex88&show_icons=true&theme=radical)
+
+## Projetos Destacados
+Em desenvolvimento
+
+## Conecte-se Comigo
+📫 Como me encontrar: [feerlbm88@gmail.com] ou [47-99743-1131]
+
 <div align="center">
   <a href="https://github.com/Danafex88">
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-</div>
+ </div>
   <div style="display: inline_block"><br>
    
   
@@ -24,6 +34,6 @@
   <br>
   
   <div> 
-  <a href="https://instagram.com/feerlbm88" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/feerlbm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:feerlbm88@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
