@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar em **projetos de software livre HTML e CSS**
 - 🤔 Estou procurando ajuda com **desenvolvimento de aplicativos móveis**
 - 💬 Pergunte-me sobre **HTML e CSS**
-- 📫 Como me encontrar: [meu-email@exemplo.com](feerlbm88@gmail.com)
+- 📫 Como me encontrar: [feerlbm88@gmail.com]
 - ⚡ Curiosidade: Eu adoro tocar guitarra e cozinhar!
  
 <div align="center">
