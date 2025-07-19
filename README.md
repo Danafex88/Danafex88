@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Fernando Martins! 👋
 
 ## Sobre mim
-- 🌱 Atualmente estou aprendendo **HTML e CSS**
-- 👯 Estou procurando colaborar em **projetos de software livre HTML e CSS**
-- 🤔 Estou procurando ajuda com **desenvolvimento de aplicativos móveis**
+- 🌱 Atualmente estou aprendendo **Power BI**
+- 👯 Estou procurando colaborar em **projetos de software livre HTML e CSS, PHP, Pyhton**
+- 🤔 Estou procurando ajuda com **tudo o que vier sera bem vindo**
 - 💬 Pergunte-me sobre **HTML e CSS**
 - ⚡ Curiosidade: Eu adoro ler, cozinhar e jogar!
 
