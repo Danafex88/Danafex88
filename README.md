@@ -18,7 +18,7 @@
 Em desenvolvimento
 
 ## Conecte-se Comigo
-📫 Como me encontrar: [feerlbm88@gmail.com] ou [47-99743-1131]
+📫 Como me encontrar: [prof.fernando.martins1205@gmail.com] ou [44-99804-4030]
 
 <div align="center">
   <a href="https://github.com/Danafex88">
